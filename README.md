@@ -1,2 +1,2 @@
 # Self-learn_CapgMyo
-record
+record my learning process
